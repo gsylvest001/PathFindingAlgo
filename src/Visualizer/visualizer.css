@@ -1,0 +1,25 @@
+.main {
+    display: flex;
+    flex-direction: row;
+}
+
+canvas {
+    border: 1px solid black;
+    position: absolute;
+    left: 0;
+}
+
+.controls {
+    display: flex;
+    flex-direction: column;
+    margin-left: 790px;
+
+}
+
+.creativeButton {
+    margin-bottom: 20px;
+}
+
+.mapSelection {
+    margin-bottom: 20px;
+}
